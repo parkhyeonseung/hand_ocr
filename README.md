@@ -7,8 +7,8 @@
  - 이미지 OCR
  - 문자를 음성으로 변형
    
- ![title](/img/keyboard.png){: width="100" height="100"}
- ![title](/img/hand.png){: width="100" height="100"}
- ![title](/img/cap_ocr.png){: width="100" height="100"}
+ <img src="/img/keyboard.png" width="100" height="100">
+ <img src="/img/hand.png" width="100" height="100">
+ <img src="/img/cap_ocr.png" width="100" height="100">
 
 
