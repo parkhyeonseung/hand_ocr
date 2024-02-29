@@ -1,0 +1,10 @@
+pip install pygame
+pip install mediapipe
+pip install easyocr
+pip install gTTS
+pip install googletrans==4.0.0-rc1
+pip install pydub
+pip install pyttsx3
+pip install imutils
+pip install tensorflow
+pip install cvzone
